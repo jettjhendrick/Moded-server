@@ -1,6 +1,6 @@
 # Moded-server
 
-Here you will fin all of the apps and item you will have to install to join a modded server
+Here you will find all of the apps and item you will have to install to join a modded server
 
 1. Java: you will need the most lattest version of java on your computer.
 You can download it here (https://java.com/en/download/)
