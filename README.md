@@ -11,3 +11,5 @@ select "install client" then it should start installing.
 3.move the .jar files in "Mods" (the folder you downloaded) into the mods file for forge. You can find this file by opening forge in the minecraft launcher an selecting mods and open mods folder
 
 You are done. 
+
+If your game is incompatable you will need to check if you have ALL of the mods in the right folder'mods'.
